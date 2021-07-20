@@ -1,0 +1,144 @@
+<style> {
+
+  padding-top: 300px;
+  position: relative;
+ }
+nav{
+			background-color: #17a2b8;
+			padding: 50px;
+      border: 5px;
+      text-align: right;
+      font-family: 'Merriweather', serif;
+      }
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather',sans-serif;
+}
+hr{
+ border-color: grey;
+  border-style: none;
+  border-width: 8px;
+  width: 5%;
+  border-top-style: dotted;
+}
+h1{
+  margin: 20px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 40px;
+  color: #17a2b8;
+  line-height: 2;
+}
+h2{
+  margin:10% auto;
+  font-family: 'Montserrat', sans-serif;
+  color: #17a2b8;
+  font-weight:normal;
+  font-size: 15px;
+
+}
+h3{
+  color:  #17a2b8;
+  font-family: 'Montserrat', sans-ser
+ } 
+
+
+.top-cloud{
+  padding-top:5%;
+  position: relative;
+  left:20%;
+  top: 0px;
+}
+.bottom-cloud{
+  position: relative;
+  padding-bottom: 5%;
+   right: 20%;
+   bottom:0px;
+}
+.pic{
+  height: 150px;
+  width: 150px;
+  position: relative;
+}
+.profile{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: center;
+  line-height: 2;
+}
+.btn{
+  color:  #17a2b8;
+}
+.skill-row{
+  width: 50%;
+  display:block;
+  position:relative;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.giphy-embed1{
+  width: 100%;
+  float: center;
+  position: relative;
+  top: 5px;
+  margin-right: 10px;
+}
+.giphy-embed2{
+  width: 100%;
+  float: center;
+  position: relative;
+  top: 5px;
+  margin-left: 10px;
+}
+.giphy-embed3{
+ width: 100%;
+  float: center;
+  position: relative;
+  top: 5px;
+  margin-left: 10px;
+}
+.skills{
+  padding-top: 100px;
+}
+.bottom-container{
+  padding-top: 100px;
+  background-color: #17a2b8;
+  padding-bottom: 20px;
+  margin-top: 100px;
+}
+.contact-me{
+ padding-top: 50px;
+}
+.contact-button{
+background-color: #66BFBF;
+border: none;
+color: white;
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 25px;
+margin: 4px 2px;
+cursor: pointer;
+border-radius: 20px;
+margin-top: 50px;
+}
+
+.button{
+  color: white;
+}
+
+.footer-link{
+  line-height:2;
+  display: inline-block;
+  margin-top: 5%;
+  width: 20%;
+}
+.copyright{
+color: #eaf6f6;
+margin-bottom: 0px;
+padding: 2% 0%;
+front-size:0.75rem;
+}
+</style>
